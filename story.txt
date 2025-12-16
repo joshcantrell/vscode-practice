@@ -1,4 +1,4 @@
 some text here and here
 This is where we pulled updates to the local repository
 Here we added a branch
-Merge conflict fun!
+Merge conflict fun! More changes for merge conflict
